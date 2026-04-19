@@ -68,7 +68,7 @@ We leverage a state-of-the-art stack to ensure 99.9% reliability and sub-100ms s
 
 - **Main Platform:** [jmpy.me](https://jmpy.me)
 - **Dashboard:** [app.jmpy.me](https://app.jmpy.me)
-- **MCP Launch Guide:** [View Guide](https://github.com/jmpy-me/.github/blob/main/profile/LAUNCHGUIDE.md)
+- **MCP Launch Guide:** [View Guide](https://github.com/jmpy-me/jmpy-mcp-server/blob/main/LAUNCHGUIDE.md)
 - **API Status:** [System Status](https://jmpy.me/status)
 
 ---
