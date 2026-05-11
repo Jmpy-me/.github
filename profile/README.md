@@ -23,30 +23,32 @@ While others offer just a "shortener," Jmpy.me provides a complete **Engagement 
 ## 🛠️ Our Core Ecosystem
 
 ### 🔗 [Branded Link Management](https://jmpy.me/short-urls)
-*   **Dynamic Shortening:** Create memorable links that you can edit anytime.
-*   **Custom Domains:** Fully professionalize your links with your own branded domain (e.g., `links.yourbrand.com`).
-*   **Deep Analytics Matrix:** Track UTMs, geography (city-level), device tech, and traffic quality (bot detection).
-*   **[Enterprise Security](https://github.com/jmpy-me/.github/blob/main/profile/SECURITY.md):** Integrated password protection, expiration dates, and click-limit gating.
+*   **Integrated QR Generation:** Every short URL automatically generates a high-res QR code—no separate creation needed.
+*   **Unified Channel Attribution:** Track both **clicks** (digital) and **scans** (physical) in a single, consolidated dashboard.
+*   **Dynamic Destination Editing:** Update your destination URL anytime without breaking your short link or printed QR code.
+*   **Deep Analytics Matrix:** Monitor UTMs, city-level geography, and device technographics with 99.9% accuracy.
+*   **[Enterprise Security](https://github.com/jmpy-me/.github/blob/main/profile/SECURITY.md):** Password protection, link expiration, and click-limit gating built-in.
 
 ### 🔳 [Advanced QR Code Generator](https://jmpy.me/qr-code-generator)
-*   **Dynamic QR Codes:** Update the content behind the code without re-printing. 
-*   **Rich Content Types:** Built-in support for WiFi, vCards, Social Profiles, App Store links, and Bitcoin payments.
-*   **Branded Styling:** Custom colors, logo overlays, and high-resolution SVG exports for print.
-*   **Real-time Scan Tracking:** See exactly when, where, and how your codes are being scanned.
+*   **Dynamic QR Codes:** Change the content behind the code instantly without ever needing to re-print. 
+*   **Rich Content Types:** Native support for WiFi, vCards, Social Profiles, App Store links, and Bitcoin payments.
+*   **Branded Styling:** Professional logo overlays, custom color palettes, and high-resolution SVG exports.
+*   **[Real-time Scan Tracking](https://jmpy.me/qranalytics):** Monitor scans as they happen with city-level heatmaps and device-intel profiling.
 
 ### 📄 [Dynamic Landing Pages](https://jmpy.me/landing-pages)
 *   **Link-in-Bio:** Beautiful, mobile-optimized landing pages for your social profiles.
 *   **One-Click Publishing:** Deploy landing pages instantly with integrated tracking and short URLs.
 *   **Conversion Focused:** Built-in CTA buttons, media embeds, and template-based designs.
 
-### 👥 [Team Management & Collaboration](https://jmpy.me/short-urls)
+### 👥 Team Management & Collaboration
 *   **Role-Based Access:** Manage multiple teams and assign specific member permissions.
 *   **Seamless Invitations:** Invite collaborators via email with automated status tracking.
 *   **Shared Workspace:** Synchronize links, QR codes, and analytics across your entire organization.
 *   **Automated Productivity:** In-app and email notifications for team invites, removals, and platform updates.
 
 ### 🤖 AI-Native Integrations (MCP)
-*   **MCP Server:** Integrate Jmpy.me tools directly into your AI workflows using the Model Context Protocol.
+*   **[Universal MCP Bridge](https://github.com/Jmpy-me/jmpy-mcp-server):** Robust, cross-platform stdio-to-http bridge for seamless AI agent connectivity.
+*   **[Click & Scan Analytics](https://jmpy.me/click-analytics):** Transform silent links into actionable intelligence with unified attribution.
 *   **Developer API:** Robust RESTful API for seamless integration into any application or automation.
 *   **Cross-Platform:** Extensions for Chrome and Google Workspace for instant productivity.
 
